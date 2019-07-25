@@ -1,0 +1,328 @@
+/*container外框加版心*/
+.container{ width: 1200px; margin: 0 auto 0 auto;}
+
+
+
+/*产品分类*//*产品分类*//*产品分类*//*产品分类*//*产品分类*/       
+          .classification{
+          	width: 1200px;
+          	height: 130px;
+          	border-bottom:4px solid #fec43e;
+          	margin: 0 auto;
+          }
+          
+          
+          .classification p{
+          	font-size: 26px;
+          	padding-top: 58px;
+          }
+          
+          
+          .classification sub{
+          	font-size: 18px;
+          	color: #fec43e;
+          }
+          
+          .classification span{
+          	font-size: 16px;
+          	padding-top: 10px;
+          }
+          
+          
+/*产品推荐*//*产品推荐*//*产品推荐*//*产品推荐*//*产品推荐*/         
+          .Recommend{
+          	width: 1200px;
+          	height: 160px;
+          	border-bottom:4px solid #fec43e;
+          }
+          
+          
+          .Recommend p{
+          	font-size: 26px;
+          	padding-top: 58px;
+          }
+          
+          
+          .Recommend sub{
+          	font-size: 18px;
+          	color: #fec43e;
+          }
+          
+          .Recommend span{
+          	font-size: 16px;
+          	padding-top: 10px;
+          }
+          
+          
+          
+/*图片展示*/          
+          .three-x{
+          	width: 1200px;
+          	height: 776px;
+          	margin-top: 10px;
+          }
+          
+/*第一个图片*//*第一个图片*//*第一个图片*//*第一个图片*/          
+          .three-02{
+          	background: url(../img/three-01.jpg);
+          	width: 390px;
+          	height: 776px;
+          	float: left;
+          }
+          
+          
+
+/*第二个图片*//*第二个图片*//*第二个图片*//*第二个图片*/
+          .three-03{
+          	background: url(../img/three-03.jpg);
+          	width: 390px;
+          	height: 391px;
+          	float: left;
+          	margin-left: 15px;
+          }
+/*外边描边*//*外边描边*//*外边描边*//*外边描边*/
+          .three-03x{
+          	width: 140px;
+          	height: 31px;
+          	border:1px solid #fec43e;
+          	margin-top: 330px;
+          	margin-left: 25px;
+          }
+/*文字*//*文字*//*文字*//*文字*//*文字*/
+          .three-03x p{
+          	color: #fff;
+          	font-size: 18px;
+          	float: left;
+          	line-height: 31px;
+          	padding-left: 5px;
+          }
+          
+/*立即购买*//*立即购买*//*立即购买*//*立即购买*/          
+          .three-03y{
+          	width: 72px;
+          	height: 31px;
+          	background: #fec43e;
+          	float: right;
+          }
+/*文字*//*文字*//*文字*//*文字*/          
+          .three-03y b{
+          	color: #fff;
+          	font-size: 12px;
+          	line-height: 31px;
+          	text-align: center;
+          	display: block;
+          }
+          
+          
+          
+ /*图片3*/ /*图片3*/ /*图片3*/ /*图片3*/ /*图片3*/         
+          .three-04{
+          	background: url(../img/three-04.jpg);
+          	width: 390px;
+          	height: 391px;
+          	float: left;
+          	margin-left: 15px;
+          }
+          
+/*外边描边*//*外边描边*//*外边描边*//*外边描边*/
+          .three-04x{
+          	width: 140px;
+          	height: 31px;
+          	border:1px solid #fec43e;
+          	margin-top: 330px;
+          	margin-left: 25px;
+          }
+/*文字*//*文字*//*文字*//*文字*//*文字*/
+          .three-04x p{
+          	color: #fff;
+          	font-size: 18px;
+          	float: left;
+          	line-height: 31px;
+          	padding-left: 5px;
+          }
+          
+/*立即购买*//*立即购买*//*立即购买*//*立即购买*/          
+          .three-04y{
+          	width: 72px;
+          	height: 31px;
+          	background: #fec43e;
+          	float: right;
+          }
+/*文字*//*文字*//*文字*//*文字*/          
+          .three-04y b{
+          	color: #fff;
+          	font-size: 12px;
+          	line-height: 31px;
+          	text-align: center;
+          	display: block;
+          }          
+          
+ /*图片4*/ /*图片4*/ /*图片4*/ /*图片4*/ /*图片4*/         
+          .three-05{
+          	background: url(../img/three-05.jpg);
+          	width: 795px;
+          	height: 370px;
+          	float: left;
+          	margin-left: 15px;
+          	margin-top: 15px;
+          }
+          
+
+
+/*背景*//*背景*//*背景*//*背景*//*背景*//*背景*/
+          .Nordic{
+          	background: url(../img/three-bg.jpg);
+          	width: 1920px;
+          	height: 600px;
+          	position: absolute;left:50%;
+          	margin-left: -960px;
+          	margin-top: 89px;
+          }
+          
+/*框架*/ /*框架*/ /*框架*/ /*框架*/ /*框架*/ /*框架*/          
+          .Nordic-a{
+          	width: 1200px;
+          	height: 600px;
+          	position: relative;
+          	margin: 0 auto;
+          }
+/*按钮*/ /*按钮*//*按钮*//*按钮*//*按钮*/        
+          .Nordic-b{
+          	width: 160px;
+          	height: 22px;
+          	position: absolute;left:34px;top:500px;
+          	background: #fec43e;
+          }
+          
+/* 文字*//* 文字*//* 文字*//* 文字*//* 文字*/         
+          .Nordic-b p{
+          	line-height: 22px;
+          	color: #FFF;
+          	font-size: 14px;
+          	font-weight: bolder;
+          	text-align: center;
+          }
+
+
+/*底部*//*底部*//*底部*//*底部*//*底部*//*底部*/
+	         .foot{
+	         	width: 1920px;
+	         	height: 270px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	border-top:4px solid #ffbc20;
+	         	margin-top: 100px;
+	         	background: #2d2d2d;
+	         }
+	         
+/*底部文本*/	         
+	         .foot-text{
+	         	width: 1200px;
+	         	height: 270px;
+	         	margin: 0 auto;
+	         	background: #2d2d2d;
+	         	position: relative;
+	         }
+/*联系我们*/	         
+	         .foot-text p{
+	         	color: #fff;
+	         	font-size: 20px;
+	         	padding-top: 68px;
+	         }
+/*英文*/	         
+	         .foot-text b{
+	         	color: #6e6e6e;
+	         	font-size: 16px;
+	         }
+	         
+/*外围框架*/
+	         .anle{
+	         	width: 500px;
+	         	height: 200px;
+	         	position: absolute;left:183px; top:70px;
+	         }
+/*公司名称*/	         
+	         .anle p{
+	         	width: 141px;
+	         	height: 30px;
+	         	line-height: 30px;
+	         	font-size: 16px;
+	         	padding-top: 0;
+	         	color: #6e6e6e;
+	         }
+	         
+/*ul ol 框架*/	         
+	         .foot-text2{
+	         	width: 500px;
+	         	height: 130px;
+	         	margin-top: 40px;
+	         }
+
+/*地址电话传真*/	         
+	         .foot-text2 ul{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: left;
+	         }
+	         
+	         .foot-text2 ul li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*邮编手机邮箱*/	         
+	         .foot-text2 ol{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: right;
+	         }
+	         
+	         .foot-text2 ol li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*底部logo*/	         
+	         .foot-logo{
+	         	background: url(../img/logo-2.png);
+	         	width: 200px;
+	         	height: 80px;
+	            position: absolute;left:740px; top:130px;
+	         }
+	         
+/*二维码*//*二维码*//*二维码*/	         
+	         .er{
+	         	width: 168px;
+	         	height: 168px;
+	         	background: url(../img/er.png);
+	         	position: absolute;left:997px; top:51px;
+	         }	         
+
+
+
+/*版权*/
+	         .bq{
+	         	width: 1920px;
+	         	height: 65px;
+	         	background: #252525;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 370px;
+	         }
+	         
+	         .bq-1{
+	         	width: 1200px;
+	         	height: 65px;
+	         	margin: 0 auto;
+	         }
+	         
+	         .bq-1 p{
+	         	color: #5e5e5e;
+	         	font-size: 14px;
+	         	float: right;
+	         	line-height: 65px;
+	         }

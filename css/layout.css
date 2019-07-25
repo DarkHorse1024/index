@@ -1,0 +1,859 @@
+/*container外框加版心*/
+.container{ width: 1200px; margin: 0 auto 0 auto;}
+
+/*banner下边五个图标加内容*/         
+/*内容2*/  /*内容2*/  /*内容2*/	         
+	         .nr-2{
+	         	height: 220px;
+	         	width: 1200px;
+	         	background: url(../img/pic_1.png);
+	         	margin-top: -110px;
+	         	position: absolute;
+	         	z-index: 9999;
+	         	position: relative;
+	         }
+/*省50%	*/  /*省50%	*/  /*省50%	*/       
+	         .nr-2a{
+	         	width: 240px;
+	         	height: 162px;
+	         	position: absolute;left:0; top:24px;
+	         }
+	         
+/*省50%	图片*/	         
+	         .pic_1{
+	         	width: 240px;
+	         	height: 90px;
+	         	background: url(../img/pic_1.jpg);
+	         	background-repeat: no-repeat;
+	         	background-position: center center;
+	         }
+/*省50%	内容*/	         
+	         .text{
+	         	width: 240px;
+	         	height: 72px;
+	         }
+	         
+/*省50%	内容*/	         
+	         .text p{
+	         	width: 240px;
+	         	height: 25px;
+	         	font-size: 16px;
+	         	font-family: "微软雅黑";
+	         	line-height: 25px;
+	         	text-align: center;
+	         }
+	         
+/*省50%	内容*/	         
+	         .text span{
+	         	width: 240px;
+	         	height: 20px;
+	         	color: #cfcfcf;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 20px;
+	         	text-align: center;
+	         	display: block;
+	         }
+	         
+/*一线主材*/	/*一线主材*/ /*一线主材*/ /*一线主材*/        
+	         .nr-2b{
+	         	width: 240px;
+	         	height: 162px;
+	         	position: absolute;top:24px; left:240px;
+	         }
+	         
+/*一线主材图片*/	         
+	         .pic_2{
+	         	width: 240px;
+	         	height: 90px;
+	         	background: url(../img/pic_2.jpg);
+	         	background-repeat: no-repeat;
+	         	background-position: center center;
+	         }
+	         
+/*一线主材内容*/	         
+	         .text-1{
+	         	width: 240px;
+	         	height: 72px;
+	         }
+/*一线主材内容*/	         
+	         .text-1 p{
+	         	width: 240px;
+	         	height: 25px;
+	         	font-size: 16px;
+	         	font-family: "微软雅黑";
+	         	line-height: 25px;
+	         	text-align: center;
+	         }
+/*一线主材内容*/	         
+	         .text-1 span{
+	         	width: 240px;
+	         	height: 20px;
+	         	color: #cfcfcf;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 20px;
+	         	text-align: center;
+	         	display: block;
+	         }        
+	         
+	         
+/*45天完工*/ /*45天完工*/ /*45天完工*/ /*45天完工*/         
+	         .nr-2c{
+	         	width: 240px;
+	         	height: 162px;
+	         	position: absolute;top:24px; left:480px;
+	         }
+	         
+/*45天完工图片*/	         
+	         .pic_3{
+	         	width: 240px;
+	         	height: 90px;
+	         	background: url(../img/pic_3.jpg);
+	         	background-repeat: no-repeat;
+	         	background-position: center center;
+	         }
+/*45天完工内容*/	         
+	         .text-3{
+	         	width: 240px;
+	         	height: 72px;
+	         }
+/*45天完工内容*/	         
+	         .text-3 p{
+	         	width: 240px;
+	         	height: 25px;
+	         	font-size: 16px;
+	         	font-family: "微软雅黑";
+	         	line-height: 25px;
+	         	text-align: center;
+	         }
+/*45天完工内容*/	         
+	         .text-3 span{
+	         	width: 240px;
+	         	height: 20px;
+	         	color: #cfcfcf;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 20px;
+	         	text-align: center;
+	         	display: block;
+	         }
+	 
+
+/*10大工艺*/   /*10大工艺*/    /*10大工艺*/
+	         .nr-2d{
+	         	width: 240px;
+	         	height: 162px;
+	         	position: absolute;top:24px; left:720px;
+	         }
+	         
+/*10大工艺图片*/ 	         
+	         .pic_4{
+	         	width: 240px;
+	         	height: 90px;
+	         	background: url(../img/pic_4.jpg);
+	         	background-repeat: no-repeat;
+	         	background-position: center center;
+	         }
+/*10大工艺内容*/ 	         
+	         .text-4{
+	         	width: 240px;
+	         	height: 72px;
+	         }
+/*10大工艺内容*/ 	         
+	         .text-4 p{
+	         	width: 240px;
+	         	height: 25px;
+	         	font-size: 16px;
+	         	font-family: "微软雅黑";
+	         	line-height: 25px;
+	         	text-align: center;
+	         }
+/*10大工艺内容*/        
+	         .text-4 span{
+	         	width: 240px;
+	         	height: 20px;
+	         	color: #cfcfcf;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 20px;
+	         	text-align: center;
+	         	display: block;
+	         }
+	         
+
+/*0增项*/     /*0增项*/     /*0增项*/
+	         .nr-2e{
+	         	width: 240px;
+	         	height: 162px;
+	         	position: absolute;top:24px; left:960px;
+	         }
+	         
+/*0增项图片*/	         
+	         .pic_5{
+	         	width: 240px;
+	         	height: 90px;
+	         	background: url(../img/pic_5.jpg);
+	         	background-repeat: no-repeat;
+	         	background-position: center center;
+	         }
+/*0增项*/	         
+	         .text-5{
+	         	width: 240px;
+	         	height: 72px;
+	         }
+/*0增项*/	         
+	         .text-5 p{
+	         	width: 240px;
+	         	height: 25px;
+	         	font-size: 16px;
+	         	font-family: "微软雅黑";
+	         	line-height: 25px;
+	         	text-align: center;
+	         }
+/*0增项内容*/       
+	         .text-5 span{
+	         	width: 240px;
+	         	height: 20px;
+	         	color: #cfcfcf;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 20px;
+	         	text-align: center;
+	         	display: block;
+	         }
+	         
+/*更多外边椭圆*/	/*更多外边椭圆*/  /*更多外边椭圆*/       
+	         .More{
+	         	width: 140px;
+	         	height: 40px;
+	         	margin: 0 auto;
+	         	background: #ffbc20;
+/*	         	border:1px solid #000;*/
+	         	border-radius: 20px;
+	         }
+/*更多*/	  /*更多*/     /*更多*/  /*更多*/
+	         .More p{
+	         	font-size: 14px;
+	         	color: #000;
+	         	line-height: 40px;
+	         	padding-left: 37px;
+	         }
+/*更多箭头*/	/*更多箭头*/  /*更多箭头*/       
+	         .More img{
+	         	padding-left: 20px;
+	         }
+	         
+/*关于我们*/	/*关于我们*/	/*关于我们*/	/*关于我们*/	         
+	         .about{
+	         	background: url(../img/bg.jpg);
+	         	width: 1920px;
+	         	height: 493px;
+	         	position: relative;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         }
+/*关于我们*/	         
+	         .about p{
+	         	font-size: 26px;
+	         	font-family: "微软雅黑";
+	         	width: 110px;
+	         	height: 25px;
+	         	position: absolute;left:929px; top:230px;
+	         	color: #fff;
+	         }
+/*about*/	         
+	         .about span{
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	width: 110px;
+	         	height: 25px;
+	         	position: absolute;left:929px; top:270px;
+	         	color: #fff;
+	         }	         
+	         
+/*关于我们下边内容*/	         
+	         .about-2{
+	         	width: 1200px;
+	         	height: 304px;
+	         	background: #fff;
+	         	margin: 0 auto;
+	         	margin-top: 300px;
+	         	position: relative;
+	         }
+	         
+/*关于我们背景大图片*/		         
+	         .tp-6{
+	         	background: url(../img/tp_6.png);
+	         	width: 301px;
+	         	height: 201px;
+	         	position: absolute;top:50px; left:50px;
+	         }
+	         
+/*文字框架*/	         
+	         .text-6{
+	         	width: 770px;
+	         	height: 180px;
+	         	position: absolute;top:71px; left:392px;
+	         }
+	         
+	         
+/*文字*/		         
+	         .text-6 p{
+	         	width: 770px;
+	         	height: 120px;
+	         	font-size: 14px;
+	         	line-height: 40px;
+	         	color: #686868;
+	         	text-indent: 2em;
+	         	position: absolute;top:0; left:0;
+	         }
+/*MORE按钮黄色圆角边框*/	/*MORE按钮黄色圆角边框*/	/*MORE按钮黄色圆角边框*/		         
+	         .an{
+	         	width: 90px;
+	         	height: 34px;
+	         	background: #ffbc20;
+	         	border-radius: 20px;
+	         	position: absolute;top:140px;
+	         }
+/*MORE按钮*/	/*MORE按钮*/	/*MORE按钮*/	/*MORE按钮*/	         
+	         .an h1{
+	         	color: #fff;
+	         	font-size: 12px;
+	         	font-family: "微软雅黑";
+	         	line-height: 34px;
+	         	text-align: center;
+	         	display: block;
+	         	z-index: 99;
+	         }
+	         
+	
+	
+	
+	
+	
+	
+	         
+	         
+/*经典案例内容*//*经典案例内容*//*经典案例内容*/	         
+	         .case{
+	         	width: 1200px;
+	         	height: 888px;
+	         	margin-top: 650px;
+	         }
+	         
+	         
+	         .Classic{
+	         	width: 600px;
+	         	height: 296px;
+	         	float: left;
+	         }
+	         
+/*case*//*case*//*case*/	         
+	         .Classic h1{
+	         	font-size: 53px;
+	         	font-family: "微软雅黑";
+	         	padding-top: 100px;
+	         }
+	         
+/*黑线*/	/*黑线*//*黑线*//*黑线*/         
+	         .Classic b{
+	         	width: 20px;
+	         	height: 2px;
+	         	background: #ffbc20;
+	         	display:block;
+	         }
+/*文字*/	/*文字*//*文字*//*文字*/         
+	         .Classic p{
+	         	color: #ffbc20;
+                font-size: 24px;
+                font-family: "微软雅黑"; 
+                padding-left: 10px;
+	         }
+/*图片*//*图片*//*图片*//*图片*/	         
+	         .tp-7{
+	         	width: 300px;
+	         	height: 296px;
+	         	background: url(../img/tp_7.jpg);
+	         	float: left;
+	         }
+/*文字*//*文字*//*文字*//*文字*/
+	         .text-7{
+	         	width: 300px;
+	         	height: 296px;
+	         	background: #fcf9f2;
+	         	float: left;
+	         	position: relative;
+	         }
+         
+	         .text-7 p{
+	         	width: 300px;
+	         	height: 20px;
+	         	font-family: "微软雅黑";
+	         	font-size: 20px;
+	         	text-align: center;
+	         	padding-top: 85px;
+	         }
+	         
+	         
+	         .text-7 b{
+	         	width: 20px;
+	         	height: 2px;
+	         	background: #000;
+	         	position: absolute;left:140px; top:120px;
+	         }
+	         
+	         
+	         .text-7 span{
+	         	width: 224px;
+	         	height: 70px;
+	         	color: #bdbbb6;
+	         	font-family: "微软雅黑";
+	         	font-size: 14px;
+	         	position: absolute;left:38px; top:153px;
+	         	text-align: center;	         	
+	         }
+	         
+	         .text-7:hover{ background: #ffbc20;}	         	         
+	         .text-7:hover span{ color: #000;}
+/*图片*//*图片*//*图片*//*图片*/
+	         .tp-8{
+	         	width: 600px;
+	         	height: 296px;
+	         	background: url(../img/tp_8.jpg);
+	         	float: left;
+	         }
+	         
+/*文字*/
+	         .text-8{
+	         	width: 300px;
+	         	height: 296px;
+	         	background: #fcf9f2;
+	         	float: left;
+	         	position: relative;
+	         }
+	         
+	         .text-8 p{
+	         	width: 300px;
+	         	height: 20px;
+	         	font-family: "微软雅黑";
+	         	font-size: 20px;
+	         	text-align: center;
+	         	padding-top: 85px;
+	         }
+	         
+	         
+	         .text-8 b{
+	         	width: 20px;
+	         	height: 2px;
+	         	background: #000;
+	         	position: absolute;left:140px; top:120px;
+	         }
+	         
+	         
+	         .text-8 span{
+	         	width: 224px;
+	         	height: 70px;
+	         	color: #bdbbb6;
+	         	font-family: "微软雅黑";
+	         	font-size: 14px;
+	         	position: absolute;left:38px; top:153px;
+	         	text-align: center;	         	
+	         }
+	         
+	         .text-8:hover{ background: #ffbc20;}	         	         
+	         .text-8:hover span{ color: #000;}
+	         
+
+/*图片*/
+	         .tp-9{
+	         	width: 300px;
+	         	height: 296px;
+	         	float: left;
+	         	background: url(../img/tp_9.jpg);
+	         }
+	         
+	         
+/*图片*/	         
+	         .tp-10{
+	         	width: 300px;
+	         	height: 296px;
+	         	float: left;
+	         	background: url(../img/tp_10.jpg);
+	         }
+
+/*文字*/
+	         .text-10{
+	         	width: 300px;
+	         	height: 296px;
+	         	background: #fcf9f2;
+	         	float: left;
+	         	position: relative;
+	         }
+	         
+	         .text-10 p{
+	         	width: 300px;
+	         	height: 20px;
+	         	font-family: "微软雅黑";
+	         	font-size: 20px;
+	         	text-align: center;
+	         	padding-top: 85px;
+	         }
+	         
+	         
+	         .text-10 b{
+	         	width: 20px;
+	         	height: 2px;
+	         	background: #000;
+	         	position: absolute;left:140px; top:120px;
+	         }
+	         
+	         
+	         .text-10 span{
+	         	width: 224px;
+	         	height: 70px;
+	         	color: #bdbbb6;
+	         	font-family: "微软雅黑";
+	         	font-size: 14px;
+	         	position: absolute;left:38px; top:153px;
+	         	text-align: center;	         	
+	         }
+	         
+	         .text-10:hover{ background: #ffbc20;}	         	         
+	         .text-10:hover span{ color: #000;}
+	         
+	         
+
+	         
+/*图片*/
+	         .tp-11{
+	         	width: 300px;
+	         	height: 296px;
+	         	float: left;
+	         	background: url(../img/tp_11.jpg);
+	         }
+	         
+	         
+	         
+/*文字*/	         
+	         .text-11{
+	         	width: 300px;
+	         	height: 296px;
+	         	background: #fcf9f2;
+	         	float: left;
+	         	position: relative;
+	         }
+	         
+	         .text-11 p{
+	         	width: 300px;
+	         	height: 20px;
+	         	font-family: "微软雅黑";
+	         	font-size: 20px;
+	         	text-align: center;
+	         	padding-top: 85px;
+	         }
+	         
+	         
+	         .text-11 b{
+	         	width: 20px;
+	         	height: 2px;
+	         	background: #000;
+	         	position: absolute;left:140px; top:120px;
+	         }
+	         
+	         
+	         .text-11 span{
+	         	width: 224px;
+	         	height: 70px;
+	         	color: #bdbbb6;
+	         	font-family: "微软雅黑";
+	         	font-size: 14px;
+	         	position: absolute;left:38px; top:153px;
+	         	text-align: center;	         	
+	         }
+	         
+	         .text-11:hover{ background: #ffbc20;}	         	         
+	         .text-11:hover span{ color: #000;}
+	         
+
+
+
+
+/*更多2外边椭圆*/	/*更多2外边椭圆*/  /*更多2外边椭圆*/       
+	         .More-2{
+	         	width: 140px;
+	         	height: 40px;
+	         	margin: 64px auto;
+	         	background: #ffbc20;
+/*	         	border:1px solid #000;*/
+	         	border-radius: 20px;
+	         	
+	         }
+/*更多2*/	  /*更多2*/     /*更多2*/  /*更多2*/
+	         .More-2 p{
+	         	font-size: 14px;
+	         	color: #000;
+	         	line-height: 40px;
+	         	padding-left: 37px;
+	         }
+/*更多箭头2*/	/*更多箭头2*/  /*更多箭头2*/       
+	         .More-2 img{
+	         	padding-left: 20px;
+	         }
+	         
+
+
+
+
+
+/*正品保障*/  /*正品保障*/   /*正品保障*/
+	         .Product{
+	         	width: 1200px;
+	         	height: 46px;
+	         	position: relative;
+	         }
+	         
+/*图标1*/	         
+	         .tb-1{
+	         	width: 300px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*小手图片*//*小手图片*//*小手图片*/	         
+	         .tb-1 img{
+	         	width: 60px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*文字*//*文字*/	/*文字*/		         
+	         .tb-1 p{
+	         	width: 80px;
+	         	font-size: 18px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         }
+/*下边文字*//*下边文字*//*下边文字*//*下边文字*/	         
+	         .tb-1 span{
+	         	width: 170px;
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         	color: #999999;
+	         }	         
+	         
+	
+	         
+/*图标2*/
+	         .tb-2{
+	         	width: 300px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*相机图片*//*相机图片*//*相机图片*/
+	         .tb-2 img{
+	         	width: 68px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*文字*//*文字*//*文字*//*文字*/	         
+	         .tb-2 p{
+	         	width: 80px;
+	         	font-size: 18px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         }
+/*下边文字*//*下边文字*//*下边文字*//*下边文字*/         
+	         .tb-2 span{
+	         	width: 170px;
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         	color: #999999;
+	         }	         
+
+/*图标3*/
+	         .tb-3{
+	         	width: 300px;
+	         	height: 46px;
+	         	float: left;
+	         }
+
+
+/*奖杯图片*/  /*奖杯图片*/  /*奖杯图片*/
+	         .tb-3 img{
+	         	width: 56px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*文字*//*文字*//*文字*//*文字*/	         
+	         .tb-3 p{
+	         	width: 180px;
+	         	font-size: 18px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         }
+/*下边文字*//*下边文字*//*下边文字*//*下边文字*/         
+	         .tb-3 span{
+	         	width: 200px;
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         	color: #999999;
+	         }	         
+
+/*图标4*/
+	         .tb-4{
+	         	width: 300px;
+	         	height: 46px;
+	         	float: left;
+	         }
+	         
+
+
+/*汽车图片*/ /*汽车图片*//*汽车图片*//*汽车图片*/
+	         .tb-4 img{
+	         	width: 85px;
+	         	height: 46px;
+	         	float: left;
+	         }
+/*文字*//*文字*//*文字*//*文字*/	         
+	         .tb-4 p{
+	         	width: 180px;
+	         	font-size: 18px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         }
+/*下边文字*//*下边文字*//*下边文字*//*下边文字*/         
+	         .tb-4 span{
+	         	width: 200px;
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         	color: #999999;
+	         }
+	         
+
+
+
+/*底部*//*底部*//*底部*//*底部*//*底部*//*底部*/
+	         .foot{
+	         	width: 1920px;
+	         	height: 270px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	border-top:4px solid #ffbc20;
+	         	margin-top: 148px;
+	         	background: #2d2d2d;
+	         }
+	         
+/*底部文本*/	         
+	         .foot-text{
+	         	width: 1200px;
+	         	height: 270px;
+	         	margin: 0 auto;
+	         	background: #2d2d2d;
+	         	position: relative;
+	         }
+/*联系我们*/	         
+	         .foot-text p{
+	         	color: #fff;
+	         	font-size: 20px;
+	         	padding-top: 68px;
+	         }
+/*英文*/	         
+	         .foot-text b{
+	         	color: #6e6e6e;
+	         	font-size: 16px;
+	         }
+	         
+/*外围框架*/
+	         .anle{
+	         	width: 500px;
+	         	height: 200px;
+	         	position: absolute;left:183px; top:70px;
+	         }
+/*公司名称*/	         
+	         .anle p{
+	         	width: 141px;
+	         	height: 30px;
+	         	line-height: 30px;
+	         	font-size: 16px;
+	         	padding-top: 0;
+	         	color: #6e6e6e;
+	         }
+	         
+/*ul ol 框架*/	         
+	         .foot-text2{
+	         	width: 500px;
+	         	height: 130px;
+	         	margin-top: 40px;
+	         }
+
+/*地址电话传真*/	         
+	         .foot-text2 ul{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: left;
+	         }
+	         
+	         .foot-text2 ul li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*邮编手机邮箱*/	         
+	         .foot-text2 ol{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: right;
+	         }
+	         
+	         .foot-text2 ol li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*底部logo*/	         
+	         .foot-logo{
+	         	background: url(../img/logo-2.png);
+	         	width: 200px;
+	         	height: 80px;
+	            position: absolute;left:740px; top:130px;
+	         }
+	         
+/*二维码*//*二维码*//*二维码*/	         
+	         .er{
+	         	width: 168px;
+	         	height: 168px;
+	         	background: url(../img/er.png);
+	         	position: absolute;left:997px; top:51px;
+	         }	         
+
+
+
+/*版权*/
+	         .bq{
+	         	width: 1920px;
+	         	height: 65px;
+	         	background: #252525;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 418px;
+	         }
+	         
+	         .bq-1{
+	         	width: 1200px;
+	         	height: 65px;
+	         	margin: 0 auto;
+	         }
+	         
+	         .bq-1 p{
+	         	color: #5e5e5e;
+	         	font-size: 14px;
+	         	float: right;
+	         	line-height: 65px;
+	         }

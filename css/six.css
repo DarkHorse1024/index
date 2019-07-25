@@ -1,0 +1,655 @@
+/*container外框加版心*/
+.container{ width: 1200px; margin: 0 auto 0 auto;}
+
+
+/*品牌保证*//*品牌保证*//*品牌保证*//*品牌保证*//*品牌保证*//*品牌保证*/
+             .six-show-1{
+             	width: 1200px;
+             	height: 100px;
+                margin-top: 50px;
+             }
+             
+             
+             .six-show-1 p{
+             	width: 520px;
+             	height: 50px;
+             	line-height: 50px;
+             	font-size: 30px;
+             }
+             
+             
+             .six-show-1 b{
+             	font-size:18px;
+             	color: #ffbc20;
+             	padding-left: 20px;
+             }
+             
+             
+             
+             .six-show-1 span{
+             	width: 100px;
+             	height: 2px;
+             	background: #ffbc20;
+             	display: block;
+             }
+
+
+
+
+/*文字*//*文字*//*文字*//*文字*//*文字*//*文字*/
+             .three-text{
+             	width: 1200px;
+             	height: 210px;
+             }
+ /*三个样式*//*三个样式*//*三个样式*//*三个样式*/             
+             .text-01,.text-02,.text-03{
+             	width: 400px;
+             	height: 210px;
+             	float: left;
+             }
+             
+             
+             .text-01 p{
+             	font-size: 20px;
+             	width: 400px;
+             	text-align: center;
+             	margin-top: 40px;
+             	color: #000;
+             }
+             
+             .text-01 span{
+             	font-size: 13px;
+             	width: 300px;
+             	text-align: center;
+             	margin-left: 50px;
+             	display: block;
+             	line-height: 25px;
+             	margin-top: 20px;
+             } 
+             
+             
+             .text-01:hover{ background: #ffbc20; color: #fff;} 
+             .text-01:hover p{ background: #ffbc20; color: #fff;}  
+             
+             
+             
+             
+/*第二个*/ /*第二个*//*第二个*//*第二个*//*第二个*//*第二个*//*第二个*/            
+             .text-02 p{
+             	font-size: 20px;
+             	width: 400px;
+             	text-align: center;
+             	margin-top: 40px;
+             	color: #000;
+             }
+             
+             .text-02 span{
+             	font-size: 13px;
+             	width: 300px;
+             	text-align: center;
+             	margin-left: 50px;
+             	display: block;
+             	line-height: 25px;
+             	margin-top: 20px;
+             } 
+             
+             
+             .text-02:hover{ background: #ffbc20; color: #fff;} 
+             .text-02:hover p{ background: #ffbc20; color: #fff;}    
+             
+             
+             
+/*第三个*//*第三个*//*第三个*//*第三个*//*第三个*//*第三个*//*第三个*/             
+             .text-03 p{
+             	font-size: 20px;
+             	width: 400px;
+             	text-align: center;
+             	margin-top: 40px;
+             	color: #000;
+             }
+             
+             .text-03 span{
+             	font-size: 13px;
+             	width: 300px;
+             	text-align: center;
+             	margin-left: 50px;
+             	display: block;
+             	line-height: 25px;
+             	margin-top: 20px;
+             } 
+             
+             
+             .text-03:hover{ background: #ffbc20; color: #fff;} 
+             .text-03:hover p{ background: #ffbc20; color: #fff;}                                  
+
+
+
+/*产品展示*//*产品展示*//*产品展示*//*产品展示*//*产品展示*/
+             .six-show{
+             	width: 1200px;
+             	height: 100px;
+                margin-top: 50px;
+             }
+             
+             
+             .six-show p{
+             	width: 520px;
+             	height: 50px;
+             	line-height: 50px;
+             	font-size: 30px;
+             }
+             
+             
+             .six-show b{
+             	font-size:18px;
+             	color: #ffbc20;
+             	padding-left: 20px;
+             }
+             
+             
+             
+             .six-show span{
+             	width: 100px;
+             	height: 2px;
+             	background: #ffbc20;
+             	display: block;
+             }
+             
+             
+/*五个图片*//*五个图片*//*五个图片*//*五个图片*//*五个图片*/            
+             .five-tp{
+             	width: 1200px;
+             	height: 580px;
+             	position: relative;
+             }
+             
+             
+             
+             .five-tp-1{
+             	background: url(../img/six-01.jpg);
+             	width: 270px;
+             	height: 275px;
+             	float: left;
+             	overflow: hidden;
+             }
+/* 过渡*//* 过渡*//* 过渡*//* 过渡*//* 过渡*/             
+             .five-tp-01{
+             	width: 540px;
+             	height: 275px;
+             	margin-left: -135px;
+             }
+/*左*/             
+             .five-tp-02{
+             	width: 135px;
+             	height: 275px;
+             	background: rgba(0, 0, 0, 0.7);
+             	float: left;
+             	transition: 2s;             	
+             }
+             
+             
+             .five-tp-02 p{
+             	width: 40px;
+             	font-size: 20px;
+             	color: #fff;
+             	font-weight: bolder;
+             	margin-left: 95px;
+             	margin-top: 90px;
+             }
+             .five-tp-02 span{
+             	width: 80px;
+             	font-size: 20px;
+             	color: #fff;
+             	margin-left: 55px;
+             }             
+            .five-tp-02 h1{
+             	font-size: 20px;
+             	color: #fff;
+             	width: 100px;
+             	margin-left: 35px;;
+             }            
+/*右*/             
+             .five-tp-03{
+             	width: 135px;
+             	height: 275px;
+             	background: rgba(0, 0, 0, 0.7);
+             	float: right;
+             	transition: 2s;
+             	color: #fff;
+             } 
+                          
+             .five-tp-03 p{
+             	width: 135px;
+             	font-size: 20px;
+             	color: #fff;
+             	font-weight: bolder;
+             	margin-top: 90px;
+             }
+             .five-tp-03 span{
+             	font-size: 20px;
+             	color: #fff;
+             }
+             .five-tp-03 h1{
+             	font-size: 20px;
+             	color: #fff;
+             }             
+             
+             .five-tp-01:hover .five-tp-02{ transform: translateX(135px);} 
+             .five-tp-01:hover .five-tp-03{ transform: translateX(-135px);}            
+             
+/*第二个图片*//*第二个图片*//*第二个图片*//*第二个图片*//*第二个图片*/             
+             .five-tp-2{
+             	background: url(../img/six-02.jpg);
+             	width: 270px;
+             	height: 275px;
+             	float: left;
+             	margin-left: 30px;
+             	overflow: hidden;
+             }
+/*第五个图片*/ /*第五个图片*/ /*第五个图片*/ /*第五个图片*/         
+             .five-tp-5{
+             	background: url(../img/six-05.jpg);
+             	width: 600px;
+             	height: 580px;
+             	float: left;
+             	margin-left: 30px;
+             	overflow: hidden;             	
+             }
+             
+             .five-tp-5:hover .tp-5-guodu{ transform: translateY(580px);}
+             .tp-5-guodu{
+             	width: 600px;
+             	height: 1160px;
+             	margin-top: -580px;
+             	transition:2s;
+             }
+             
+             
+             .guodu-x{
+             	width: 600px;
+             	height: 580px;
+             	background: rgba(0,0,0,0.5);
+             	z-index: ;
+             }
+             
+             .guodu-x p{
+             	font-size: 40px;
+             	color: #fff;
+             	text-align: center;
+             	padding-top: 190px;         	
+             }
+             
+             .guodu-x h1{
+             	font-size: 40px;
+             	color: #fff;
+             	font-weight: normal;
+             	text-align: center;
+             }
+             
+             .guodu-x h2{
+             	font-size: 40px;
+             	color: #fff;
+             	font-weight: normal;
+             	text-align: center;
+             }             
+             
+             
+/*第三个图片*/ /*第三个图片*/ /*第三个图片*/ /*第三个图片*/              
+             .five-tp-3{
+             	background: url(../img/six-03.jpg);
+             	width: 270px;
+             	height: 275px;
+             	float: left;
+             	position: absolute;top:305px; left:0;
+             	overflow: hidden;
+             }                                       
+
+
+/*第四个图片*/ /*第四个图片*/ /*第四个图片*/ /*第四个图片*/ 
+             .five-tp-4{
+             	background: url(../img/six-04.jpg);
+             	width: 270px;
+             	height: 275px;
+             	float: left;
+             	position: absolute;top:305px; left:300px;
+             	overflow: hidden;
+             } 
+             
+
+
+
+
+/*新闻动态*//*新闻动态*//*新闻动态*//*新闻动态*//*新闻动态*//*新闻动态*/
+             .six-new{
+             	width: 1200px;
+             	height: 100px;
+                margin-top: 150px;
+             }
+             
+             
+             .six-new p{
+             	width: 520px;
+             	height: 50px;
+             	line-height: 50px;
+             	font-size: 30px;
+             }
+             
+             
+             .six-new b{
+             	font-size:18px;
+             	color: #ffbc20;
+             	padding-left: 20px;
+             }
+             
+             
+             
+             .six-new span{
+             	width: 100px;
+             	height: 2px;
+             	background: #ffbc20;
+             	display: block;
+             }
+             
+
+
+/*三个新闻*//*三个新闻*//*三个新闻*//*三个新闻*/
+             .six-three{
+             	width: 1200px;
+             	height: 500px;
+             }
+             
+             
+             .six-o{
+             	background: url(../img/six-06.jpg);
+             	width: 380px;
+             	height: 500px;
+             	background-repeat: no-repeat;
+             	float: left;
+             	position: relative;
+             }
+             
+             
+             .guodu{
+             	width: 380px;
+             	height: 250px;
+             	background: rgba(0,0,0,0.5);
+             	position: absolute;top:0;
+             	z-index: 9999;
+             	transform: rotateX(90deg);
+             	transition: 2s;
+             }
+             
+             .guodu p{
+             	text-align: center;
+             	color: #fff;
+             	font-size: 24px;
+             	margin-top: 90px;
+             }
+             
+             
+             .six-o:hover .guodu{ transform: rotateX(0);}
+             
+             
+             
+             .six-o ul{
+             	width: 380px;
+             	height: 250px;
+             	margin-top: 250px;
+             }
+             
+             .six-o ul li{
+             	font-size: 14px;
+             	height: 40px;
+             	line-height: 40px;
+             	border-bottom: 1px dashed #000;
+             }
+             
+             .six-o span{
+             	color: #ffbc20;
+             	float: left;
+             }
+             
+             .six-o b{
+             	color: #000000;
+             	float: right;
+             }
+
+/*第二个*//*第二个*//*第二个*//*第二个*//*第二个*//*第二个*/
+             .six-x{
+             	background: url(../img/six-07.jpg);
+             	width: 380px;
+             	height: 500px;
+             	background-repeat: no-repeat;
+             	margin-left: 30px;
+             	float: left;
+             	position: relative;
+             }
+             
+             .guodu-1{
+             	width: 380px;
+             	height: 250px;
+             	background: rgba(0,0,0,0.5);
+             	position: absolute;top:0;
+             	z-index: 9999;
+             	transform: rotateX(90deg);
+             	transition: 2s;
+             }
+             
+             .guodu-1 p{
+             	text-align: center;
+             	color: #fff;
+             	font-size: 24px;
+             	margin-top: 90px;
+             }
+             
+             
+             .six-x:hover .guodu-1{ transform: rotateX(0);}               
+             
+             .six-x ul{
+             	width: 380px;
+             	height: 250px;
+             	margin-top: 250px;
+             }
+             
+             .six-x ul li{
+             	font-size: 14px;
+             	height: 40px;
+             	line-height: 40px;
+             	border-bottom: 1px dashed #000;
+             }
+             
+             .six-x span{
+             	color: #ffbc20;
+             	float: left;
+             }
+             
+             .six-x b{
+             	color: #000000;
+             	float: right;
+             }
+             
+           
+             
+/*第三个*//*第三个*//*第三个*//*第三个*//*第三个*//*第三个*/
+             .six-y{
+             	background: url(../img/six-08.jpg);
+             	width: 380px;
+             	height: 500px;
+             	background-repeat: no-repeat;
+             	margin-left: 30px;
+                float: left;
+                position: relative;
+             }
+             
+             .guodu-2{
+             	width: 380px;
+             	height: 250px;
+             	background: rgba(0,0,0,0.5);
+             	position: absolute;top:0;
+             	z-index: 9999;
+             	transform: rotateX(90deg);
+             	transition: 2s;
+             }
+             
+             .guodu-2 p{
+             	text-align: center;
+             	color: #fff;
+             	font-size: 24px;
+             	margin-top: 90px;
+             }
+             
+             
+             .six-y:hover .guodu-2{ transform: rotateX(0);}               
+
+
+
+             .six-y ul{
+             	width: 380px;
+             	height: 250px;
+             	margin-top: 250px;
+             }
+             
+             .six-y ul li{
+             	font-size: 14px;
+             	height: 40px;
+             	line-height: 40px;
+             	border-bottom: 1px dashed #000;
+             }
+             
+             .six-y span{
+             	color: #ffbc20;
+             	float: left;
+             }
+             
+             .six-y b{
+             	color: #000000;
+             	float: right;
+             }
+             
+
+
+
+
+
+/*底部*//*底部*//*底部*//*底部*//*底部*//*底部*/
+	         .foot{
+	         	width: 1920px;
+	         	height: 270px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	border-top:4px solid #ffbc20;
+	         	margin-top: 108px;
+	         	background: #2d2d2d;
+	         }
+	         
+/*底部文本*/	         
+	         .foot-text{
+	         	width: 1200px;
+	         	height: 270px;
+	         	margin: 0 auto;
+	         	background: #2d2d2d;
+	         	position: relative;
+	         }
+/*联系我们*/	         
+	         .foot-text p{
+	         	color: #fff;
+	         	font-size: 20px;
+	         	padding-top: 68px;
+	         }
+/*英文*/	         
+	         .foot-text b{
+	         	color: #6e6e6e;
+	         	font-size: 16px;
+	         }
+	         
+/*外围框架*/
+	         .anle{
+	         	width: 500px;
+	         	height: 200px;
+	         	position: absolute;left:183px; top:70px;
+	         }
+/*公司名称*/	         
+	         .anle p{
+	         	width: 141px;
+	         	height: 30px;
+	         	line-height: 30px;
+	         	font-size: 16px;
+	         	padding-top: 0;
+	         	color: #6e6e6e;
+	         }
+	         
+/*ul ol 框架*/	         
+	         .foot-text2{
+	         	width: 500px;
+	         	height: 130px;
+	         	margin-top: 40px;
+	         }
+
+/*地址电话传真*/	         
+	         .foot-text2 ul{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: left;
+	         }
+	         
+	         .foot-text2 ul li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*邮编手机邮箱*/	         
+	         .foot-text2 ol{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: right;
+	         }
+	         
+	         .foot-text2 ol li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*底部logo*/	         
+	         .foot-logo{
+	         	background: url(../img/logo-2.png);
+	         	width: 200px;
+	         	height: 80px;
+	            position: absolute;left:740px; top:130px;
+	         }
+	         
+/*二维码*//*二维码*//*二维码*/	         
+	         .er{
+	         	width: 168px;
+	         	height: 168px;
+	         	background: url(../img/er.png);
+	         	position: absolute;left:997px; top:51px;
+	         }	         
+
+
+
+/*版权*/
+	         .bq{
+	         	width: 1920px;
+	         	height: 65px;
+	         	background: #252525;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 378px;
+	         }
+	         
+	         .bq-1{
+	         	width: 1200px;
+	         	height: 65px;
+	         	margin: 0 auto;
+	         }
+	         
+	         .bq-1 p{
+	         	color: #5e5e5e;
+	         	font-size: 14px;
+	         	float: right;
+	         	line-height: 65px;
+	         }

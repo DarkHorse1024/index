@@ -1,0 +1,667 @@
+/*container外框加版心*/
+.container{ width: 1200px; margin: 0 auto 0 auto;}
+
+
+
+
+
+/*产品分类*//*产品分类*//*产品分类*//*产品分类*/
+                    .cp{
+                    	width: 1200px;
+                    	height: 250px;
+                    }
+                    
+                    
+                    .cp p{
+                    	width: 1200px;
+                    	height: 24px;
+                    	font-size: 24px;
+                    	text-align: center;
+                    	color: #fcc851;
+                    padding-top: 85px;
+                    }
+                    
+                    .cp b{
+                    	width: 1200px;
+                    	height: 18px;
+                    	font-size: 18px;
+                    	text-align: center;
+                    	color: #000;
+                    padding-top: 10px;
+                    display: block;
+                    }                    
+
+
+                    .cp span{
+                    	width: 490px;
+                    	height: 30px;
+                    	font-size: 16px;
+                    	text-align: center;
+                    	color: #999999;
+                    display: block;
+                    margin-left: 355px;
+                    margin-top: 40px;
+                    } 
+                    
+/*简介*//*简介*/ /*简介*/ /*简介*/ /*简介*/                     
+                    .jian{
+                    	width: 1920px;
+                    	height: 743px;
+                    	background: url(../img/four-bg.jpg);
+                    	position: absolute;left:50%;
+                    	margin-left: -960px;
+                    	margin-top: 50px;
+                    }
+                    
+                    
+                    .jie{
+                    	width: 1200px;
+                    	height: 743px;
+                    	margin: 0 auto;
+                    	position: relative;
+                    }
+                    
+                    
+                    .jie h1{
+                    	font-size: 46px;
+                    	color: #fff;
+                    	line-height: 46px;
+                    	margin-top: 65px;
+                    }
+                    
+                    .jie h2{
+                    	font-size: 40px;
+                    	color: #fff;
+                    	line-height: 40px;
+                    	margin-top: 15px;
+                    }                    
+                    
+                    .jie h3{
+                    	font-size: 20px;
+                    	width: 300px;
+                    	height: 30px;
+                    	border:1px solid #fff;
+                    	color: #fff;
+                    	line-height: 30px;
+                    	text-align: center;
+                    	margin-top: 15px;
+                    } 
+                    
+                    
+                    .jie p{
+                    	width: 590px;
+                    	height: 100px;
+                    	font-size: 16px;
+                    	line-height: 30px;
+                    	color: #fff;
+                    	text-indent: 2em;
+                    	margin-top: 45px;
+                    }                   
+
+                    .jie span{
+                    	width: 590px;
+                    	height: 120px;
+                    	font-size: 16px;
+                    	line-height: 30px;
+                    	color: #fff;
+                    	text-indent: 2em;
+                    	display: block;
+                    }
+                    
+                    .jie b{
+                    	width: 590px;
+                    	height: 60px;
+                    	font-size: 16px;
+                    	line-height: 30px;
+                    	color: #fff;
+                    	text-indent: 2em;
+                    	display: block;
+                    	font-weight: normal;
+                    }
+                    
+                    
+                    
+                    .jie h4{
+                    	width: 160px;
+                    	height: 40px;
+                    	line-height: 40px;
+                    	text-align: center;
+                    	color: #fff;
+                    	background: #ffbc20;
+                    	margin-top: 50px;
+                    }
+/*简介结束*/ /*简介结束*//*简介结束*//*简介结束*//*简介结束*//*简介结束*/               
+                    
+ /*每个作品一个家开始*//*每个作品一个家开始*//*每个作品一个家开始*//*每个作品一个家开始*/                   
+                    .home{
+                    	width: 1200px;
+                    	height: 600px;
+                    	margin-top: 793px;
+                    	position: relative;
+                    }
+                    
+/*图片*/ /*图片*//*图片*//*图片*//*图片*/                 
+                    .home-2{
+                    	background: url(../img/four-05.jpg);
+                    	width: 661px;
+                    	height: 498px;
+                    position: absolute;top:50px;
+                    }
+
+                    .home-3{
+                    	width: 386px;
+                    	height: 498px;
+                    position: absolute;top:50px;
+                    margin-left: 790px;
+                    }
+                    
+                    
+                    .home-3 h1{
+                    	font-family: "微软雅黑";
+                    	font-size: 35px;
+                    	margin-top: 20px;
+                    	line-height: 40px;
+                    }
+                    
+                    .home-3 h2{
+                    	font-family: "微软雅黑";
+                    	font-size: 24px;
+                    	margin-top: 10px;
+                    }
+
+
+                    .home-3 p{
+                    	font-family: "微软雅黑";
+                    	font-size: 18px;
+                    	margin-top: 20px;
+                    	line-height: 30px;
+                    	margin-top: 20px;
+                    }
+ 
+                    .home-3 b{
+                    	font-family: arial;
+                    	font-size: 10px;
+                    	color: #888888;
+                    	line-height: 15px;
+                    	display: block;
+                    	font-weight: bolder;
+                    	margin-top: 20px;
+                    }
+                    
+                    .home-3 h3{
+                    	width: 160px;
+                    	height: 40px;
+                    	background: #ffbc20;
+                    	line-height: 40px;
+                    	text-align: center;
+                    	color: #fff;
+                    	margin-top: 10px;
+                    	font-size: 18px;
+                    }                                      
+/*每个作品都有一个家结束end*//*每个作品都有一个家结束end*//*每个作品都有一个家结束end*/  
+
+
+
+
+/*查看更多*//*查看更多*//*查看更多*//*查看更多*//*查看更多*//*查看更多*/
+                    .many{
+                    	background: url(../img/four-bg2.jpg);
+                    	width: 1920px;
+                    	height: 353px;
+                    	position: absolute;left:50%;
+                    	margin-left: -960px;
+                    } 
+                    
+                    
+                    .many-1{
+                    	width: 1200px;
+                    	height: 353px;
+                    	margin: 0 auto;
+                    	position: relative;
+                    } 
+                    
+                    .many-1 p{
+                    	width: 1200px;
+                    	text-align: center;
+                    	font-size: 24px;
+                    	color: #fff;
+                    	line-height: 30px;
+                    	padding-top: 50px;
+                    }
+                    
+ /*查看更多按钮*/                   
+                    .many-1 span{
+                    	width: 160px;
+                    	height: 40px;
+                    	text-align: center;
+                    	font-size: 18px;
+                    	color: #fff;
+                    	line-height: 40px;
+                    	position: absolute;left:520px; top:150px;
+                    	background: #ffbc20;
+                    	font-weight: bold;
+                    } 
+                    
+/*六个图片*/           
+                    .six-cp{
+                    	width: 1200px;
+                    	height: 1250px;
+                    	margin-top: 223px;
+                    	position: relative;
+                    	z-index: 99;
+                    } 
+                    
+/*图片1*/                    
+                    .six-1{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	float: left;
+                    }  
+/*图片1111111111展示*/                   
+                    .six-01{
+                    	background: url(../img/four-1.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-1 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-1 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-1 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-1 sub{
+                    	font-size: 11px;
+                    }
+                    
+                    
+                    
+/*第二块*//*第二块*//*第二块*//*第二块*//*第二块*/                    
+                    .six-2{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	margin-left: 16px;
+                    	float: left;
+                    }
+                    
+                    
+/*图片222222222展示*/                   
+                    .six-02{
+                    	background: url(../img/four-2.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-2 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-2 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-2 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-2 sub{
+                    	font-size: 11px;
+                    }
+                    
+                               
+                    
+/*第三块*//*第三块*//*第三块*//*第三块*//*第三块*/
+                    .six-3{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	margin-left: 17px;
+                    	float: left;
+                    }
+                    
+/*图片33333333展示*/                   
+                    .six-03{
+                    	background: url(../img/four-3.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-3 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-3 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-3 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-3 sub{
+                    	font-size: 11px;
+                    }
+                    
+                    
+                 
+/*第四块*//*第四块*//*第四块*//*第四块*//*第四块*/
+                    .six-4{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	float: left;
+                    	margin-top: 50px;
+                    }
+                    
+/*图片444444444展示*/                   
+                    .six-04{
+                    	background: url(../img/four-4.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-4 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-4 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-4 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-4 sub{
+                    	font-size: 11px;
+                    }
+                    
+                    
+                    
+                    
+                    
+/*第五块*//*第五块*//*第五块*//*第五块*//*第五块*//*第五块*/
+                    .six-5{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	margin-left: 16px;
+                    	float: left;
+                    	margin-top: 50px;
+                    }
+                    
+
+/*图片55555555展示*/                   
+                    .six-05{
+                    	background: url(../img/four-5.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-5 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-5 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-5 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-5 sub{
+                    	font-size: 11px;
+                    }
+                    
+                    
+                    
+                    
+/*第六块*//*第六块*//*第六块*//*第六块*//*第六块*//*第六块*//*第六块*/
+                    .six-6{
+                    	width: 371px;
+                    	height: 560px;
+                    	border: 9px solid #fff;
+                    	margin-left: 17px;
+                    	float: left;
+                    	margin-top: 50px;
+                    }
+                    
+
+/*图片66666666666展示*/                   
+                    .six-06{
+                    	background: url(../img/four-6.jpg);
+                    	width: 371px;
+                    	height: 495px;
+                    }
+                    
+                    .six-6 p{
+                    	font-size: 17px;
+                    	color: #000;
+                    	text-decoration: underline;
+                    margin-top: 20px;
+                    height: 17px;
+                    } 
+                    
+                    
+                    .six-6 span{
+                    	font-size: 10px;
+                    	color: #888888;
+                    	text-decoration: underline;
+                    	height: 10px;
+                    }                                                                       
+/*价钱*/                    
+                    .six-6 h1{
+                    	font-size: 38px;
+                    	color: #ffbc20;
+                    	float: right;
+                    	border-bottom:1px solid #ffbc20;  
+                    	margin-top: -35px;                  	
+                    }
+                    
+                    
+                    .six-6 sub{
+                    	font-size: 11px;
+                    }
+                    
+
+
+
+
+
+
+/*底部*//*底部*//*底部*//*底部*//*底部*//*底部*/
+	         .foot{
+	         	width: 1920px;
+	         	height: 270px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	border-top:4px solid #ffbc20;
+	         	margin-top: 98px;
+	         	background: #2d2d2d;
+	         }
+	         
+/*底部文本*/	         
+	         .foot-text{
+	         	width: 1200px;
+	         	height: 270px;
+	         	margin: 0 auto;
+	         	background: #2d2d2d;
+	         	position: relative;
+	         }
+/*联系我们*/	         
+	         .foot-text p{
+	         	color: #fff;
+	         	font-size: 20px;
+	         	padding-top: 68px;
+	         }
+/*英文*/	         
+	         .foot-text b{
+	         	color: #6e6e6e;
+	         	font-size: 16px;
+	         }
+	         
+/*外围框架*/
+	         .anle{
+	         	width: 500px;
+	         	height: 200px;
+	         	position: absolute;left:183px; top:70px;
+	         }
+/*公司名称*/	         
+	         .anle p{
+	         	width: 141px;
+	         	height: 30px;
+	         	line-height: 30px;
+	         	font-size: 16px;
+	         	padding-top: 0;
+	         	color: #6e6e6e;
+	         }
+	         
+/*ul ol 框架*/	         
+	         .foot-text2{
+	         	width: 500px;
+	         	height: 130px;
+	         	margin-top: 40px;
+	         }
+
+/*地址电话传真*/	         
+	         .foot-text2 ul{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: left;
+	         }
+	         
+	         .foot-text2 ul li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*邮编手机邮箱*/	         
+	         .foot-text2 ol{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: right;
+	         }
+	         
+	         .foot-text2 ol li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*底部logo*/	         
+	         .foot-logo{
+	         	background: url(../img/logo-2.png);
+	         	width: 200px;
+	         	height: 80px;
+	            position: absolute;left:740px; top:130px;
+	         }
+	         
+/*二维码*//*二维码*//*二维码*/	         
+	         .er{
+	         	width: 168px;
+	         	height: 168px;
+	         	background: url(../img/er.png);
+	         	position: absolute;left:997px; top:51px;
+	         }	         
+
+
+
+/*版权*/
+	         .bq{
+	         	width: 1920px;
+	         	height: 65px;
+	         	background: #252525;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 368px;
+	         }
+	         
+	         .bq-1{
+	         	width: 1200px;
+	         	height: 65px;
+	         	margin: 0 auto;
+	         }
+	         
+	         .bq-1 p{
+	         	color: #5e5e5e;
+	         	font-size: 14px;
+	         	float: right;
+	         	line-height: 65px;
+	         }

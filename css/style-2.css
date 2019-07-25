@@ -1,0 +1,564 @@
+/*container外框加版心*/
+.container{ width: 1200px; margin: 0 auto 0 auto;}
+
+/*banner盒子*/
+.box{
+	height: 917px;
+	position: relative;
+}
+
+/*banner*/
+             .bander{
+	          width: 100%;
+	          height: 917px; 
+	         }
+	         
+/*导航*/	         
+	         .nav{
+	         	height: 92px;
+	         	width: 1920px;
+	         	background: #FFF;
+	         	position: absolute;top:0; left:50%;
+	         	margin-left: -960px;
+	         	z-index: 99;
+	         	opacity: 0.9;
+	         }
+	         
+	         
+	         
+	         .nav-a{
+	         	width: 1200px;
+	         	height: 92px;
+	         	margin: 0 auto;
+	         	background: url(../img/logo.png) no-repeat;
+	         }
+	         
+	         
+	         .nav-a ul{
+	         	width: 679px;
+	         	height: 92px;
+	         	float: right;
+	         	background: red;
+	         	background: #FFF;
+	         	opacity: 0.9;
+	         }
+	         
+/*导航文字*//*导航文字*//*导航文字*/	         
+	         .nav-a ul li{
+	         	width: 97px;
+	         	height: 92px;
+	         	line-height: 92px;
+	         	text-align: center;
+	         	font-size: 14px;
+	         	font-family: "微软雅黑";
+	         	float: left;
+	         }
+	         
+/*首页固定*/	/*首页固定*/	/*首页固定*/	         
+	         .gd{
+	         	background: url(../img/shubiao.png);
+	         	z-index: -1;
+	         }
+	         
+/*导航鼠标经过效果*/	   /*导航鼠标经过效果*/      
+	         .nav-a ul li:hover{
+	         	background: url(../img/shubiao.png);
+	         	z-index: -1;
+	         	margin-top: -10px;
+	         }
+	         
+
+
+/*六个圆*//*六个圆*//*六个圆*/
+	         .six{
+	         	width: 1200px;
+	         	height: 176px;
+	         	background: url(../img/style2_01.jpg);
+	         	margin-top: 42px;
+	         }
+	         
+/*新品上市*//*新品上市*//*新品上市*/	         
+	         .new{
+	         	width: 1200px;
+	         	height: 167px;
+	         	background: #fff;
+	         	position: relative;	         	
+	         }
+	         /*文字*/
+	         .new p{
+	         	width: 1200px;
+	         	height: 30px;
+	         	text-align: center;
+	         	padding-top: 62px;
+	         	font-size: 24px;
+	         	color: #000;
+	         }
+/*下边黄条*//*下边黄条*//*下边黄条*/	         
+	         .new b{
+	         	width: 40px;
+	         	height: 2px;
+	         	background: #ffb220;
+	         	position: absolute;left:580px; top:116px;
+	         }	         
+/*文字*/	         
+	         .new span{
+	         	width: 1200px;
+	         	height: 30px;
+	         	text-align: center;
+	         	padding-top: 45px;
+	         	font-size: 18px;
+	         	color: #666666;
+	         	display: block;
+	         }
+	         	        	         
+	         
+/*第三块内容*//*第三块内容*//*第三块内容*//*第三块内容*/	         
+	         .three{
+	         	background: url(../img/style2_02.jpg);
+	         	height: 406px;
+	         	width: 1920px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 130px;
+	         }	 
+	         
+	         	         
+	         .three-01{
+	         	width: 1200px;
+	         	height: 406px;
+	         	margin: 0 auto;
+	         }
+	         
+	         
+	         .three-1{
+	         	width: 160px;
+	         	height: 36px;
+	         	background: #ffbc20;
+	         	margin-left: 32px;
+	         	margin-top: 280px;
+	         } 
+	         
+	         	         
+	         .three-1 p{
+	         	color: #fff;
+	         	font-size: 16px;
+	         	line-height: 36px;
+	         	text-align: center;
+	         }
+	         
+	         
+/*产品展示大框架*//*产品展示大框架*//*产品展示大框架*/	         
+	         .show{
+	         	width: 1200px;
+	         	height: 1900px;
+	         	margin-top: 606px;
+	         }      
+
+/*产品展示*//*产品展示*//*产品展示*//*产品展示*/
+	         .show-01{
+	         	width: 1200px;
+	         	height: 167px;
+	         	background: #fff;
+	         	position: relative;	         	
+	         }
+	         
+	         /*文字*/
+	         .show-01 p{
+	         	width: 1200px;
+	         	height: 30px;
+	         	text-align: center;
+	         	padding-top: 32px;
+	         	font-size: 24px;
+	         	color: #000;
+	         }
+/*下边黄条*//*下边黄条*//*下边黄条*/	         
+	         .show-01 b{
+	         	width: 40px;
+	         	height: 2px;
+	         	background: #ffb220;
+	         	position: absolute;left:580px; top:66px;
+	         }	         
+/*文字*/	         
+	         .show-01 span{
+	         	width: 1200px;
+	         	height: 30px;
+	         	text-align: center;
+	         	padding-top: 15px;
+	         	font-size: 18px;
+	         	color: #666666;
+	         	display: block;
+	         }
+	         
+
+/*沙发展示图片*//*沙发展示图片*//*沙发展示图片*/
+	         .Sofa{
+	         	width: 1200px;
+	         	height: 1650px;
+	         	position: relative;
+	         	margin-top: 50px;
+	         	margin: 0 auto;
+	         }
+	         
+/*沙发1*/	/*沙发1*//*沙发1*//*沙发1*//*沙发1*//*沙发1*//*沙发1*//*沙发1*//*沙发1*/         
+	         .Sofa-01{
+	         	background: url(../img/sofa-01.jpg);
+	         	width: 466px;
+	         	height: 517px;
+	         	float: left;
+	         	margin-left: 10px;
+	         	position: relative;
+	         }
+	         
+/*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*/	         
+	         .Sofa-01 p{
+	         	width: 262px;
+	         	height: 54px;
+	         	text-align: center;
+	         	border-bottom:1px solid #000;
+	         	font-size: 37px;
+	         	margin-left: 102px;
+	         	margin-top:75px;
+	         }
+/*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*/	         
+	         .Sofa-01 span{
+	         	width: 262px;
+	         	height: 28px;
+	         	border-bottom:1px solid #000;	         	
+	         	text-align: center;
+	         	font-size: 18px;
+	         	margin-left: 102px;
+	         	color: #ffbc20;
+	         	display: block;
+	         }	 
+	         
+	         
+	         
+/*money*//*money*//*money*//*money*//*money*/	         
+	         .money{
+	         	background: url(../img/style2-03.png);
+	         	width: 248px;
+	         	height: 40px;
+	         	margin-left: 109px;
+	         	margin-top: 240px;
+	         	position: relative;
+	         }  
+	         
+/*价格*/	/*价格*/	/*价格*/	/*价格*/	/*价格*/	         
+	         .money h1{
+	         	width: 180px;
+	         	height: 38px;
+	         	color: #ffbc20;
+	         	border: 0;
+	         	font-size: 30px;
+	         	position: absolute;left:15px;top:-2px;
+	         	line-height: 38px;
+	         } 
+	         
+/*sub下边文字*//*sub下边文字*//*sub下边文字*/	         	         
+	         .money sub{
+	         	font-size: 13px;
+	         	color: #000;
+	         }     
+	         
+	         
+	         
+/*沙发2*//*沙发2*//*沙发2*//*沙发2*//*沙发2*//*沙发2*/	         
+	         .Sofa-02{
+	         	background: url(../img/sofa-02.jpg);
+	         	width: 714px;
+	         	height: 517px;
+	         	float: left;
+	         }	
+	         
+/*沙发3*//*沙发3*//*沙发3*//*沙发3*//*沙发3*//*沙发3*/	         
+	         .Sofa-03{
+	         	background: url(../img/sofa-03.jpg);
+	         	width: 705px;
+	         	height: 517px;
+	         	float: left;
+	         	margin-top: 10px;
+	         	margin-left: 10px;
+	         }	                  
+	         
+/*沙发4*//*沙发4*//*沙发4*//*沙发4*//*沙发4*//*沙发4*/
+	         .Sofa-04{
+	         	background: url(../img/sofa-04.jpg);
+	         	width: 475px;
+	         	height: 517px;
+	         	float: left;
+	         	margin-top: 10px;
+	         }	                  
+
+
+/*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*/	         
+	         .Sofa-04 p{
+	         	width: 262px;
+	         	height: 54px;
+	         	text-align: center;
+	         	border-bottom:1px solid #000;
+	         	font-size: 30px;
+	         	margin-left: 102px;
+	         	margin-top:75px;
+	         }
+/*沙发上边文字*//*沙发上边文字*//*沙发上边文字*//*沙发上边文字*/	         
+	         .Sofa-04 span{
+	         	width: 262px;
+	         	height: 28px;
+	         	border-bottom:1px solid #000;	         	
+	         	text-align: center;
+	         	font-size: 18px;
+	         	margin-left: 102px;
+	         	color: #ffbc20;
+	         	display: block;
+	         }	 
+	         
+	         
+	         
+/*money*//*money*//*money*//*money*//*money*/	         
+	         .money-4{
+	         	background: url(../img/style2-03.png);
+	         	width: 248px;
+	         	height: 40px;
+	         	margin-left: 109px;
+	         	margin-top: 240px;
+	         	position: relative;
+	         }  
+	         
+/*价格*/	/*价格*/	/*价格*/	/*价格*/	/*价格*/	         
+	         .money-4 h1{
+	         	width: 180px;
+	         	height: 38px;
+	         	color: #ffbc20;
+	         	border: 0;
+	         	font-size: 30px;
+	         	position: absolute;left:15px;top:-2px;
+	         	line-height: 38px;
+	         } 
+	         
+/*sub下边文字*//*sub下边文字*//*sub下边文字*/	         	         
+	         .money-4 sub{
+	         	font-size: 13px;
+	         	color: #000;
+	         }
+
+
+
+	         .Sofa-05{
+	         	background: url(../img/sofa-05.jpg);
+	         	width: 581px;
+	         	height: 551px;
+	         	float: left;
+	         	margin-top: 10px;
+	         	margin-left: 10px;
+	         }
+	         
+	         
+	         
+	         .Sofa-05 span{
+	         	width: 581px;
+	         	height: 33px;
+	         	text-align: center;
+	         	font-size: 33px;
+	         	display: block;
+	         	margin-top: 100px;
+	         }
+
+
+
+	         .Sofa-05 p{
+	         	width: 581px;
+	         	height: 33px;
+	         	text-align: center;
+	         	font-size: 33px;
+	         	display: block;
+	         	margin-top: 270px;
+	         	color: #ffbc20;
+	         }
+	         
+	         .Sofa-05 b{
+	         	width: 581px;
+	         	height: 18px;
+	         	text-align: center;
+	         	font-size: 18px;
+	         	display: block;
+	         	margin-top: 10px;
+	         	color: #000;
+	         }	         
+
+
+	         .Sofa-06{
+	         	background: url(../img/sofa-06.jpg);
+	         	width: 589px;
+	         	height: 551px;
+	         	float: left;
+	         	margin-top: 10px;
+	         	margin-left: 10px;
+	         }
+	         
+	         
+	         .Sofa-06 p{
+	         	width: 209px;
+	         	height: 30px;
+	         	font-size: 18px;
+	         	text-align: center;
+	         	line-height: 30px;
+	         	border-bottom:1px solid #ffbc20;
+	         	border-top:1px solid #ffbc20;
+	         	margin-left: 190px;
+	         	margin-top: 379px;
+	         }
+
+
+/*money*//*money*//*money*//*money*//*money*/	         
+	         .money-6{
+	         	background: url(../img/style2-03.png);
+	         	width: 248px;
+	         	height: 40px;
+	         	margin-left: 170.5px;
+	         	margin-top: 40px;
+	         	position: relative;
+	         }  
+	         
+/*价格*/	/*价格*/	/*价格*/	/*价格*/	/*价格*/	         
+	         .money-6 h1{
+	         	width: 180px;
+	         	height: 38px;
+	         	color: #ffbc20;
+	         	border: 0;
+	         	font-size: 30px;
+	         	position: absolute;left:10px; top:-2px;
+	         	line-height: 38px;
+	         } 
+	         
+/*sub下边文字*//*sub下边文字*//*sub下边文字*/	         	         
+	         .money-6 sub{
+	         	font-size: 13px;
+	         	color: #000;
+	         }
+
+
+
+
+
+
+/*底部*//*底部*//*底部*//*底部*//*底部*//*底部*/
+	         .foot{
+	         	width: 1920px;
+	         	height: 270px;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	border-top:4px solid #ffbc20;
+	         	background: #2d2d2d;
+	         }
+	         
+/*底部文本*/	         
+	         .foot-text{
+	         	width: 1200px;
+	         	height: 270px;
+	         	margin: 0 auto;
+	         	background: #2d2d2d;
+	         	position: relative;
+	         }
+/*联系我们*/	         
+	         .foot-text p{
+	         	color: #fff;
+	         	font-size: 20px;
+	         	padding-top: 68px;
+	         }
+/*英文*/	         
+	         .foot-text b{
+	         	color: #6e6e6e;
+	         	font-size: 16px;
+	         }
+	         
+/*外围框架*/
+	         .anle{
+	         	width: 500px;
+	         	height: 200px;
+	         	position: absolute;left:183px; top:70px;
+	         }
+/*公司名称*/	         
+	         .anle p{
+	         	width: 141px;
+	         	height: 30px;
+	         	line-height: 30px;
+	         	font-size: 16px;
+	         	padding-top: 0;
+	         	color: #6e6e6e;
+	         }
+	         
+/*ul ol 框架*/	         
+	         .foot-text2{
+	         	width: 500px;
+	         	height: 130px;
+	         	margin-top: 40px;
+	         }
+
+/*地址电话传真*/	         
+	         .foot-text2 ul{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: left;
+	         }
+	         
+	         .foot-text2 ul li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*邮编手机邮箱*/	         
+	         .foot-text2 ol{
+	         	width: 200px;
+	         	height: 76px;
+	         	float: right;
+	         }
+	         
+	         .foot-text2 ol li{
+	         	height: 25px;
+	         	line-height: 25px;
+	         	font-size: 14px;
+	         	color: #6e6e6e;
+	         }
+	         
+/*底部logo*/	         
+	         .foot-logo{
+	         	background: url(../img/logo-2.png);
+	         	width: 200px;
+	         	height: 80px;
+	            position: absolute;left:740px; top:130px;
+	         }
+	         
+/*二维码*//*二维码*//*二维码*/	         
+	         .er{
+	         	width: 168px;
+	         	height: 168px;
+	         	background: url(../img/er.png);
+	         	position: absolute;left:997px; top:51px;
+	         }	         
+
+
+
+/*版权*/
+	         .bq{
+	         	width: 1920px;
+	         	height: 65px;
+	         	background: #252525;
+	         	position: absolute;left:50%;
+	         	margin-left: -960px;
+	         	margin-top: 270px;
+	         }
+	         
+	         .bq-1{
+	         	width: 1200px;
+	         	height: 65px;
+	         	margin: 0 auto;
+	         }
+	         
+	         .bq-1 p{
+	         	color: #5e5e5e;
+	         	font-size: 14px;
+	         	float: right;
+	         	line-height: 65px;
+	         }

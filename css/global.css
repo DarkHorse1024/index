@@ -1,0 +1,21 @@
+*{ margin: 0; padding: 0;}
+
+.fl{ float: left;}
+
+.fr{ float: right;}
+
+ul li{ list-style: none;}
+
+ol{ list-style: none;}
+
+a{ text-decoration: none;}
+
+body{ overflow-x:hidden;}
+
+a{color: #000;}
+
+
+p{margin: 0; padding: 0;}
+
+
+font{ font-family: "微软雅黑";}

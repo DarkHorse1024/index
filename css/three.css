@@ -1,0 +1,77 @@
+
+.yuan{
+	width: 1200px;
+	height: 350px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.daoying-1{
+	width: 182px;
+	height: 182px;
+	position: absolute;top:182px;
+	background: url(../img/daoying-1.jpg);
+	z-index: -1;
+	opacity: 0.5;
+}
+
+
+.daoying-2{
+	width: 182px;
+	height: 182px;
+	position: absolute;top:208px;
+	background: url(../img/daoying-2.jpg);
+	z-index: -1;
+	opacity: 0.5;
+}
+
+
+
+.daoying-3{
+	width: 182px;
+	height: 182px;
+	position: absolute;top:208px;
+	background: url(../img/daoying-3.jpg);
+	z-index: -1;
+	opacity: 0.5;
+}
+
+
+
+.daoying-4{
+	width: 182px;
+	height: 182px;
+	position: absolute;top:208px;
+	background: url(../img/daoying-4.jpg);
+	z-index: -1;
+	opacity: 0.5;
+}
+
+
+
+.daoying-5{
+	width: 182px;
+	height: 182px;
+	position: absolute;top:208px;
+	background: url(../img/daoying-5.jpg);
+	z-index: -1;
+	opacity: 0.5;
+}
+
+
+
+.ch-grid{
+	width: 1200px;
+	height: 182px;
+	list-style: none;
+    padding: 0;
+    margin-left: -60px;
+}
+
+
+.ch-grid li {
+	width: 182px;
+	height: 182px;
+	display: inline-block;
+	margin: 25px;
+}

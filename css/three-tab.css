@@ -1,0 +1,611 @@
+.box-2{
+	width: 1200px;
+	height: 880px;
+	position: relative;
+	margin-top: 800px;
+}
+
+
+
+.tabs div{
+    clear: both;
+    width: 1200px;
+    height: 780px;
+    position: relative;
+    position: absolute;top:80px;
+}
+
+
+
+.tabs .horizontal{
+    margin: 0px;
+    padding: 0px;
+}
+
+.tabs .horizontal li{
+    float: left;
+    height: 20px;
+    width:100px;
+    line-height: 20px;    
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    color: #000;
+    padding: 10px;
+    border:1px solid #000;
+    margin: 0 10px;
+}
+
+
+.tabs .horizontal li:hover{
+	background: #fec43e;
+	width: 102px;
+	height: 22px;
+	border: 0;
+}
+
+/*图片1*//*图片1*//*图片1*//*图片1*//*图片1*//*图片1*//*图片1*//*图片1*/
+#three-tp-1{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:0;
+	position: relative;
+}
+
+#three-tp-1x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-1.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-1y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-1y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-1y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-1y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-1a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-1a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-1b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-1b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+/*图片2*//*图片2*//*图片2*//*图片2*//*图片2*//*图片2*//*图片2*//*图片2*/
+#three-tp-2{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:0;left:310px;
+}
+
+
+#three-tp-2x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-2.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-2y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-2y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-2y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-2y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-2a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-2a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-2b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-2b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+/*图片3*//*图片3*//*图片3*//*图片3*//*图片3*//*图片3*//*图片3*/
+#three-tp-3{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:0;left:620px;
+}
+
+
+#three-tp-3x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-3.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-3y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-3y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-3y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-3y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-3a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-3a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-3b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-3b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+
+/*图片4*//*图片4*//*图片4*//*图片4*//*图片4*//*图片4*/
+#three-tp-4{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:0;left:930px;
+}
+
+
+#three-tp-4x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-4.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-4y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-4y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-4y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-4y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-4a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-4a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-4b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-4b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+/*图片5*//*图片5*//*图片5*//*图片5*//*图片5*//*图片5*/
+#three-tp-5{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:390px;
+}
+
+#three-tp-5x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-5.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-5y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-5y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-5y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-5y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-5a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-5a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-5b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-5b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+/*图片6*//*图片6*//*图片6*//*图片6*//*图片6*//*图片6*/
+#three-tp-6{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:390px;left:310px;
+}
+
+
+#three-tp-6x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-6.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-6y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-6y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-6y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-6y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-6a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-6a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-6b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-6b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+
+/*图片7*//*图片7*//*图片7*//*图片7*//*图片7*//*图片7*//*图片7*/
+#three-tp-7{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:390px;left:620px;
+}
+
+
+#three-tp-7x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-7.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-7y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-7y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-7y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-7y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-7a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-7a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-7b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-7b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}
+
+
+/*图片8*//*图片8*//*图片8*//*图片8*//*图片8*//*图片8*/
+#three-tp-8{
+	width: 270px;
+	height: 375px;
+	position: absolute;top:390px;left:930px;
+}
+
+
+
+#three-tp-8x{
+	width: 270px;
+	height: 270px;
+	background: url(../img/three-tp-7.jpg);
+	position: absolute;top:0;
+}
+
+#three-tp-8y{
+	width: 270px;
+	height: 105px;
+	position: absolute;top:270px;
+}
+
+#three-tp-8y p{
+	color: #aeaeae;
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+#three-tp-8y span{
+	color: #000;
+	font-size: 20px;
+	padding-top: 10px;
+	display: block;
+}
+
+
+
+#three-tp-8y span del{
+	color: #aeaeae;
+	font-size: 12px;
+}
+
+#three-tp-8a{
+	width: 100px;
+	height: 20px;
+	margin-top: 5px;
+}
+
+
+#three-tp-8a li{
+	float: left;
+	padding-left: 10px;
+}
+
+#three-tp-8b{
+	width: 60px;
+	height: 60px;
+	background: url(../img/three-an.png);
+	position: absolute;top:44px; left:200px;
+	z-index: 9999;
+}
+
+
+#three-tp-8b h1{
+	width: 60px;
+	height: 60px;
+	text-align: center;
+	font-size: 16px;
+	color: #fff;
+}

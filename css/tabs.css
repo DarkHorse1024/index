@@ -1,0 +1,310 @@
+.box-2{
+	width: 1200px;
+	height: 800px;
+	position: relative;
+	margin-top: 20px;
+}
+
+.box-2 h1{
+	font-size: 47px;
+	font-family: "微软雅黑";
+}
+
+.box-2 p{
+	font-size: 24px;
+	font-family: "微软雅黑";
+	padding-left: 5px;
+	color: #ffbc20;
+}
+
+.box-2 b{
+	width: 20px;
+	height: 2px;
+	background: #ffbc20;
+	display: block;
+}
+
+.tabs div{
+    /*display: none;
+    clear: both;*/
+    width: 1200px;
+    height: 631px;
+    position: absolute;top:130px;
+}
+.tabs .horizontal{
+    margin: 0px;
+    padding: 0px;
+    float: right;
+}
+.tabs .horizontal li{
+    float: left;
+    list-style: none;
+    height: 20px;
+    line-height: 20px;
+    width:50px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    color: #000;
+    padding: 10px;
+    margin-top: -30px;
+    
+}
+
+
+.tabs .horizontal li:hover{
+	border-bottom:2px solid #ffd26a;
+}
+
+
+.tp{
+	width: 1200px;
+	height: 631px;
+	position: relative
+}
+
+
+#tp-1{
+	width: 391px;
+	height: 364px;
+	position: absolute;top:0; left:0;
+	background: url(../img/tp_1.jpg);
+	position: relative;
+}
+
+
+#black{
+	width: 357px;
+	height: 81px;
+	background: rgba(0, 0, 0, 0.5);
+	position:absolute;left:17px; top:270px;
+	position: relative;
+	perspective: 600px;
+	transform: rotateX(90deg);
+	transition: 1s;
+}
+
+
+
+#tp-1:hover #black{ transform: rotate(0deg);}
+
+#black 	p{
+	width: 200px;
+	height: 20px;
+	position: absolute;top:20px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 14px;
+    color: #fff;
+    margin: 0; padding: 0;
+}
+
+
+
+#black 	span{
+	width: 250px;
+	height: 20px;
+	position: absolute;top:40px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 12px;
+    color: #a7a7a7;
+}
+
+
+
+
+#black 	img{
+	width: 25px;
+	height: 20px;
+	position: absolute;top:30px; left:300px;
+	background-position:center center;
+}
+
+/*图片2*//*图片2*//*图片2*//*图片2*//*图片2*/
+#tp-2{
+	width: 391px;
+	height: 263px;
+	position: absolute;top:0; left:405px;
+	background: url(../img/tp_2.jpg);
+}
+
+
+#black-2{
+	width: 351px;
+	height:80px;
+	background: rgba(0, 0, 0, 0.5);
+	margin-left: 20px;
+	margin-top: 40px;
+	transition: 1s;
+	transform: rotateX(90deg);
+	perspective: 300px;
+}
+
+
+
+#tp-2:hover #black-2{ transform: rotate(0deg);}
+
+#black-2 	p{
+	width: 200px;
+	height: 20px;
+	position: absolute;top:20px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 14px;
+    color: #fff;
+    margin: 0; padding: 0;
+}
+
+
+
+#black-2 	span{
+	width: 250px;
+	height: 20px;
+	position: absolute;top:40px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 12px;
+    color: #a7a7a7;
+}
+
+
+
+
+#black-2 	img{
+	width: 25px;
+	height: 20px;
+	position: absolute;top:30px; left:300px;
+	background-position:center center;
+}
+
+
+
+
+/*图片3*//*图片3*//*图片3*//*图片3*//*图片3*/
+#tp-3{
+	width: 391px;
+	height: 631px;
+	position: absolute;top:0; left:809px;
+	background: url(../img/tp_3.jpg);
+}
+
+/*图片四*//*图片四*//*图片四*//*图片四*//*图片四*//*图片四*/
+#tp-4{
+	width: 391px;
+	height: 253px;
+	position: absolute;top:378px; left:0px;
+	background: url(../img/tp_4.jpg);
+}
+
+
+#black-4{
+	width: 351px;
+	height:80px;
+	background: rgba(0, 0, 0, 0.5);
+	margin-left: 20px;
+	margin-top: 40px;
+	transition: 1s;
+	transform: rotateX(90deg);
+	perspective: 300px;
+}
+
+
+
+#tp-4:hover #black-4{ transform: rotate(0deg);}
+
+#black-4 	p{
+	width: 200px;
+	height: 20px;
+	position: absolute;top:20px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 14px;
+    color: #fff;
+    margin: 0; padding: 0;
+}
+
+
+
+#black-4 	span{
+	width: 250px;
+	height: 20px;
+	position: absolute;top:40px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 12px;
+    color: #a7a7a7;
+}
+
+
+
+
+#black-4 img{
+	width: 25px;
+	height: 20px;
+	position: absolute;top:30px; left:300px;
+	background-position:center center;
+}
+
+
+
+
+/*图片五*//*图片五*//*图片五*//*图片五*//*图片五*/
+#tp-5{
+	width: 391px;
+	height: 354px;
+	position: absolute;top:277px; left:405px;
+	background: url(../img/tp_5.jpg);
+}
+
+
+
+
+#black-5{
+	width: 351px;
+	height:80px;
+	background: rgba(0, 0, 0, 0.5);
+	margin-left: 20px;
+	margin-top: 100px;
+	transition: 1s;
+	transform: rotateX(90deg);
+	perspective: 300px;
+}
+
+
+
+#tp-5:hover #black-5{ transform: rotate(0deg);}
+
+#black-5 	p{
+	width: 200px;
+	height: 20px;
+	position: absolute;top:20px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 14px;
+    color: #fff;
+    margin: 0; padding: 0;
+}
+
+
+
+#black-5 	span{
+	width: 250px;
+	height: 20px;
+	position: absolute;top:40px; left:20px;
+	font-family: "微软雅黑";
+    font-size: 12px;
+    color: #a7a7a7;
+}
+
+
+
+
+#black-5 img{
+	width: 25px;
+	height: 20px;
+	position: absolute;top:30px; left:300px;
+	background-position:center center;
+}
+
+
+
+
+
+
+
+
+
